@@ -49,6 +49,10 @@ For more installation options, uninstall steps, and troubleshooting, see the [se
 
 Anthropic's Claude Code plugins are developed in [claude-plugins-official](https://github.com/anthropics/claude-plugins-official). See the [plugins directory](./plugins/README.md) for more about plugins.
 
+## Contributing
+
+We welcome community contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct, development setup, and pull request process.
+
 ## Reporting Bugs
 
 We welcome your feedback. Use the `/bug` command to report issues directly within Claude Code, or file a [GitHub issue](https://github.com/anthropics/claude-code/issues).
